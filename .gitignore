@@ -1,0 +1,12 @@
+# flash app
+Flash.app
+flash.applescript
+
+# test folder
+test_results
+
+#
+__pycache__/
+
+#
+.DS_Store
