@@ -11,7 +11,6 @@ In brackets are the versions used for testing
 - pandas (0.24.2)
 - scikit-learn (0.20.3)
 - matplotlib (3.1.0)
-- seaborn (0.9.0)
 - Bio (1.73)
 - pyteomics
 - tqdm (4.31.1)
