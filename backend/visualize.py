@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import numpy as np
-import seaborn as sns
 
 def plot_multiple_roc(tprs, fprs, aucs, names, filepath,
                       size=(15,15)):
